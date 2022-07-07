@@ -1,0 +1,124 @@
+{
+  "properties": [
+    {
+      "img": "https://picsum.photos/seed/picsum/150/150",
+      "title": "Renovated studio",
+      "type": "double",
+      "location": "194 Mercer Street,627 Broadway,New york,NY 10012, USA",
+      "price": "R500",
+      "card_icon": 3,
+      "card_icon1": 2,
+      "card_icon2": 2,
+      "card_icon3": "1200 Sq M",
+      "bot_head": "Apartment"
+    },
+    {
+      "img": "https://imgkub.com/image/Pq4Si",
+      "title": "Apartment with Nice View",
+      "type": "double",
+      "location": " 8100 Death land,Chicago,9100, USA",
+      "price": "R1500",
+      "card_icon": 4,
+      "card_icon1": 3,
+      "card_icon2": 2,
+      "card_icon3": "2200 Sq M",
+      "bot_head": "Apartment"
+    },
+    {
+      "img": "https://imgkub.com/image/Pqif6",
+      "title": "Light and modern apartment ",
+      "type": "double",
+      "location": " 345 Sunethia street, Lansdowne, 9100, SA",
+      "price": "R1800",
+      "card_icon": 6,
+      "card_icon1": 4,
+      "card_icon2": 3,
+      "card_icon3": "5000 Sq M",
+      "bot_head": "Presidental Suite"
+    },
+    {
+      "img": "https://imgkub.com/image/Pq3us",
+      "title": "Design apartment",
+      "type": "double",
+      "location": "Quincy street, Brooklyn, NY, USA",
+      "price": "R2500",
+      "card_icon": 25,
+      "card_icon1": 30,
+      "card_icon2": 50,
+      "card_icon3": "10000 Sq M",
+      "bot_head": "Palace"
+    },
+    {
+      "img": ".https://imgkub.com/image/PqkiY",
+      "title": "Fancy Apartment",
+      "type": "double",
+      "location": "165 Constable road, brooklyn, USA, NY",
+      "price": "R2000",
+      "card_icon": 94,
+      "card_icon1": 100,
+      "card_icon2": 150,
+      "card_icon3": "50000 Sq M",
+      "bot_head": "Hotel"
+    },
+    {
+      "img": "https://imgkub.com/image/PqXw7",
+      "title": "Lovely Spacious Apartment",
+      "type": "double",
+      "location": " 67 Main street, Chicago, NY, USA",
+      "price": "R800",
+      "card_icon": 4,
+      "card_icon1": 3,
+      "card_icon2": 2,
+      "card_icon3": "1500 Sq M",
+      "bot_head": "Apartment"
+    },
+    {
+      "img": "https://iemgkub.com/image/PqqPC",
+      "title": "Beautiful Apartment",
+      "type": "double",
+      "location": " 786 Street, Boston, Cape town",
+      "price": "R1900",
+      "card_icon": 4,
+      "card_icon1": 3,
+      "card_icon2": 2,
+      "card_icon3": "1500 Sq M",
+      "bot_head": "Apartment"
+    },
+    {
+      "img": "https://imgkub.com/image/PqHqV",
+      "title": "Lovely Spacious Apartment",
+      "type": "double",
+      "location": " 67 Main street, Chicago, NY, USA",
+      "price": "R1500",
+      "card_icon": 4,
+      "card_icon1": 3,
+      "card_icon2": 2,
+      "card_icon3": "1500 Sq M",
+      "bot_head": "Apartment"
+    },
+    {
+      "img": "https://imgkub.com/image/PqSge",
+      "title": "Lovely Spacious Apartment",
+      "type": "double",
+      "location": " 67 Main street, Chicago, NY, USA",
+      "price": "R1200",
+      "card_icon": 4,
+      "card_icon1": 3,
+      "card_icon2": 2,
+      "card_icon3": "1500 Sq M",
+      "bot_head": "Apartment"
+    },
+    {
+      "img": "https://imgkub.com/image/Pq7eo",
+      "title": "Lovely Spacious Apartment",
+      "type": "double",
+      "location": " 67 Main street, Chicago, NY, USA",
+      "price": "R3000",
+      "card_icon": 4,
+      "card_icon1": 3,
+      "card_icon2": 2,
+      "card_icon3": "1500 Sq M",
+      "bot_head": "Apartment"
+    }
+  ]
+}
